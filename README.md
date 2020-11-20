@@ -1,7 +1,7 @@
 # Node-README-Generator
 NU Coding Bootcamp Assignment #9
 
-This is assignment #9 the June - December 2020 cohort of Coding Bootcamp through Northwestern University and Trilogy Education Services.
+This is assignment #9 for the June - December 2020 cohort of Coding Bootcamp through Northwestern University and Trilogy Education Services.
 
 Original Assignment Description is below.
 
